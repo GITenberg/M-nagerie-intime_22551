@@ -18,6 +18,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
     - http://en.wikipedia.org/wiki/Théophile_Gautier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22551#M-nagerie-intime
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2007-09-09'
 gutenberg_type: Text
